@@ -77,9 +77,6 @@ Check out the live demo of Task Ninja [here](https://task-ninjaofficial.netlify.
 
 Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or create a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🛠️ Built With
 
